@@ -52,8 +52,8 @@ header{
   width: 100%;
   height: 650px;
   text-align: center;
-  color: #FAFAFA;
-  background-image: url("img/mv.png");
+  color: #CC3333;
+  background-image: url("img/mainhead1.jpg");
   background-size: cover;
   background-position: center;
 }
@@ -119,27 +119,27 @@ header{
 }
 
 .bg-1{
-  background-image: url(img/sketch.jpg);
+  background-image: url(img/kimono1.png);
 }
 
 .bg-2{
-  background-image: url(img/websuku.png);
+  background-image: url(img/kimono2.png);
 }
 
 .bg-3{
-  background-image: url(img/write.jpg);
+  background-image: url(img/kimono3.png);
 }
 
 .bg-4{
-  background-image: url(img/webcamp.png);
+  background-image: url(img/kimono4.png);
 }
 
 .bg-5{
-  background-image: url(img/talk.jpg);
+  background-image: url(img/kimono5.png);
 }
 
 .bg-6{
-  background-image: url(img/webcamp-mother.png);
+  background-image: url(img/kimono6.png);
 }
 
 #feature{
@@ -198,7 +198,7 @@ header{
   height: 250px;
   margin: 0 auto;
   border-radius: 50%;
-  background-image: url(img/my-icon.jpg);
+  background-image: url(img/iniad.jpg);
 }
 
 .discription-title{
